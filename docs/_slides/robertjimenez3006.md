@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Greetings from robertjimenez3006!
+¡Saludos desde CONSEIN, soy robertjimenez3006! 👋
 
-![dinotocat](https://octodex.github.com/images/dinotocat.png)
+![nyantocat](https://octodex.github.com/images/nyantocat.gif)
 {: .center}
